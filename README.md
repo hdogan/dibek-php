@@ -4,7 +4,7 @@
 
 DiPHPek is PHP rekame of the [dibek](https://github.com/ahmet/dibek) project which is written in go-lang.
 The idea of this project comes from [a parody pull request](https://github.com/ahmet/dibek/pull/1)
-to troll @ahmet :trollface:
+to troll [@ahmet](https://github.com/ahmet) :trollface:
 
 ## What is DiPHPek?
 
